@@ -1,1 +1,1 @@
-# curso-flask-heroku
+# Python Flask application example in Heroku
